@@ -12,6 +12,9 @@
 
 > ⚠️ Este site é apenas para **propósito de demonstração**; a agência é fictícia.
 
+## 🔹 Acesso
+[Acesse o site](https://agenciamundolivre.netlify.app)
+
 ## 🔹 Tecnologias utilizadas
 
 - HTML5
@@ -19,8 +22,6 @@
 - Responsivo usando Flexbox e Grid
 - Imagens otimizadas para web
 
-## 🔹 Acesso
-[Acesse o site](https://agenciamundolivre.netlify.app)
 
 
 
